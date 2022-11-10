@@ -39,7 +39,7 @@ const Guide = () => {
                 
                 <div className=''>
                     <p className='text-normal lg:text-2xl font-semibold leading-relaxed'>What are the Free Keyword Tool’s unique features?</p>
-                    <p className='tlg:text-lg text-smfont-light leading-relaxed'>You don’t just want keywords – you want competitive, industry-specific information  and keyword analysis features that help you prioritize and make the most of your marketing budget.</p><br/>
+                    <p className='lg:text-lg text-sm font-light leading-relaxed'>You don’t just want keywords – you want competitive, industry-specific information  and keyword analysis features that help you prioritize and make the most of your marketing budget.</p><br/>
                     <p className='lg:text-lg text-sm font-light leading-relaxed'>Our free Bing and Google keyword tool is specifically designed to arm paid search marketers with better, more complete keyword information to inform their PPC campaigns, including competition and cost data, tailored to your country and industry, so you know your keyword list is super-relevant to your specific business.Once you’ve got your keyword list, download it as a CSV file to make it super-easy to upload directly into your Google Ads or Bing Ads account. Put your keywords to work!</p>
                 </div>
 
